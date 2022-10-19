@@ -8,16 +8,7 @@
 ### <div align="center">I'm Rizqi, a Final Year Undergraduate in Computer Science (University of London) 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
+I'm an enthusiastic learner who is always eager to learn and collaborate across technologies and domains. 💡 I enjoy learning about new technologies and applying them to real-world problems. ✨
   
 
 <br/>  
