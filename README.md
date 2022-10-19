@@ -8,7 +8,7 @@
 ### <div align="center">I'm Rizqi, a Final Year Undergraduate in Computer Science (University of London) 👨‍💻 </div>  
   
 
-I am an enthusiastic learner who is always eager to learn and collaborate across technologies and domains. 💡 I enjoy learning about new technologies and applying them to real-world problems. ✨
+I am an enthusiastic learner who is always eager to learn and collaborate across technologies and domains. 💡 I enjoy learning about new technologies and applying them to real-world problems. ✨ I am currently interested in cybersecurity and delve into the world of Artificial Intelligence. 🧠
   
 
 <br/>  
