@@ -79,4 +79,4 @@ I am an enthusiastic learner who is always eager to learn and collaborate across
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
